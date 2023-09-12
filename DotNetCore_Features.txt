@@ -1,0 +1,8 @@
+Features/Advantages:
+
+Fast and open source
+cross platform
+built-in DI
+easy updates
+cloud friendly
+performance > .net previous versions
