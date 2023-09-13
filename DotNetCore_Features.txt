@@ -6,3 +6,10 @@ built-in DI
 easy updates
 cloud friendly
 performance > .net previous versions
+
+
+Dependency Injection Service Lifetimes:
+
+a.Transient - New Service - every time requested
+b.Scoped - New Service - once per request (most recommended for web app)
+c.Singleton - New Service - once per application lifetime
