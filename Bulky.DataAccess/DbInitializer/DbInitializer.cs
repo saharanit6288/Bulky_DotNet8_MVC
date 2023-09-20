@@ -57,9 +57,9 @@ namespace Bulky.DataAccess.DbInitializer
                 //if roles are not created, then we will create admin user as well
                 _userManager.CreateAsync(new ApplicationUser
                 {
-                    UserName = "saharanit6288@hotmail.com",
-                    Email = "aharanit6288@hotmail.com",
-                    Name = "Ranit Saha",
+                    UserName = "admin@bulky.com",
+                    Email = "admin@bulky.com",
+                    Name = "DemoBulky Admin",
                     PhoneNumber = "1112223333",
                     StreetAddress = "test 123 Ave",
                     State = "WB",
@@ -68,7 +68,7 @@ namespace Bulky.DataAccess.DbInitializer
                 }, "Admin@123").GetAwaiter().GetResult();
 
 
-                ApplicationUser user = _db.ApplicationUsers.FirstOrDefault(u => u.Email == "saharanit6288@hotmail.com");
+                ApplicationUser user = _db.ApplicationUsers.FirstOrDefault(u => u.Email == "admin@bulky.com");
                 _userManager.AddToRoleAsync(user, SD.Role_Admin).GetAwaiter().GetResult();
 
             }
