@@ -1,5 +1,6 @@
 # Bulky Book CRUD App
 Its .NET 8 MVC CRUD operations with FileUpload and Authentication/Authorization.
+
 https://bulkybook1.azurewebsites.net/
 
 # Useful Links:
@@ -10,36 +11,51 @@ https://www.learnentityframeworkcore.com/migrations
 
 # Screenshots:
 ### Landing Page-
-![image](https://user-images.githubusercontent.com/25769384/218092993-55d6839f-6ec8-43b8-a463-85a543dd8540.png)
+<img width="944" alt="image" src="https://github.com/saharanit6288/Bulky_DotNet8_MVC/assets/25769384/3c495b43-024d-41a0-b3a4-812ec3977174">
 
 ### Register-
-![image](https://user-images.githubusercontent.com/25769384/218093057-e957e623-05c5-4607-83ec-d8cbded03163.png)
+<img width="547" alt="image" src="https://github.com/saharanit6288/Bulky_DotNet8_MVC/assets/25769384/dfd5e044-3af3-45ad-a341-1afcaf74c954">
 
 ### Login-
-![image](https://user-images.githubusercontent.com/25769384/218093107-5afa88ce-1814-4ffe-a22d-f6b81d6a62b2.png)
+<img width="680" alt="image" src="https://github.com/saharanit6288/Bulky_DotNet8_MVC/assets/25769384/46f18c26-76e1-4172-8ce2-b72a5acbbe06">
 
-### Forgot/Reset Password-
-![image](https://user-images.githubusercontent.com/25769384/218093530-dc31376a-a0b9-47b2-a10d-2fcd65387b6c.png)
+### Admin Control Panel - 
+### Category Page - 
+<img width="946" alt="image" src="https://github.com/saharanit6288/Bulky_DotNet8_MVC/assets/25769384/a968f4e0-f93b-46a7-bc5f-938d5ef12e83">
 
-### My Account-
-![image](https://user-images.githubusercontent.com/25769384/218093661-0bb76ec8-2bb2-4962-b849-d47ac91bb749.png)
+### Product Page - 
+<img width="943" alt="image" src="https://github.com/saharanit6288/Bulky_DotNet8_MVC/assets/25769384/46685f97-1537-4a0b-a394-a7ab9aa167a6">
+<img width="397" alt="image" src="https://github.com/saharanit6288/Bulky_DotNet8_MVC/assets/25769384/16adc02b-158d-4a77-8d32-2c4e6e9b6889">
 
-### Change Passowrd-
-![image](https://user-images.githubusercontent.com/25769384/218093705-439f9802-8eaf-44c8-b376-7b1904703e40.png)
+### Company Page - 
+<img width="939" alt="image" src="https://github.com/saharanit6288/Bulky_DotNet8_MVC/assets/25769384/15bceaa4-18a6-4971-9097-43e6639c7d95">
 
-### Student List-
-![image](https://user-images.githubusercontent.com/25769384/218129614-0f57dcbb-258d-49a0-b0c1-069557cae95f.png)
+### Create/Manage User by Admin - 
+<img width="945" alt="image" src="https://github.com/saharanit6288/Bulky_DotNet8_MVC/assets/25769384/4f0a58ea-90dc-4f92-bc06-0f7ea17bc5d8">
+<img width="952" alt="image" src="https://github.com/saharanit6288/Bulky_DotNet8_MVC/assets/25769384/7bd2aec4-1b1e-46cb-aa91-da9fa6462d1f">
 
-### Add Student-
-![image](https://user-images.githubusercontent.com/25769384/218093938-99e9da65-39f5-49db-b5a1-4f88d565371a.png)
+### Customer Panel - Shopping Cart
+<img width="952" alt="image" src="https://github.com/saharanit6288/Bulky_DotNet8_MVC/assets/25769384/8f1dda08-987b-4c6f-934f-cdf5dbb7f6af">
+<img width="954" alt="image" src="https://github.com/saharanit6288/Bulky_DotNet8_MVC/assets/25769384/22210e48-645f-4804-8831-ecce0a3b036e">
+<img width="956" alt="image" src="https://github.com/saharanit6288/Bulky_DotNet8_MVC/assets/25769384/7806d24a-2a2c-4623-84cb-83a29db942d1">
+<img width="948" alt="image" src="https://github.com/saharanit6288/Bulky_DotNet8_MVC/assets/25769384/e7cc17fd-076c-434e-b1ea-ca66f4fd6ec4">
 
-### Edit Student-
-![image](https://user-images.githubusercontent.com/25769384/218093992-11d61344-16e8-4ae6-8210-bd6464ba5c1f.png)
+### Manage Order - Customer
+<img width="954" alt="image" src="https://github.com/saharanit6288/Bulky_DotNet8_MVC/assets/25769384/fc844b5e-fe71-4761-ac81-b81a137b2761">
+<img width="919" alt="image" src="https://github.com/saharanit6288/Bulky_DotNet8_MVC/assets/25769384/3838b7a4-21e6-4944-aadf-2463af2d2a36">
 
-### Delete Student-
-![image](https://user-images.githubusercontent.com/25769384/218094095-350e7e8f-a585-4828-8a96-56b6b9964d14.png)
+### Manage Order - Admin/Employee
+<img width="940" alt="image" src="https://github.com/saharanit6288/Bulky_DotNet8_MVC/assets/25769384/64a7cd12-7f2e-4d54-883d-ddc0f37cde25">
+<img width="612" alt="image" src="https://github.com/saharanit6288/Bulky_DotNet8_MVC/assets/25769384/fa19d6da-ea4f-4900-aa27-e09ca5d5f22e">
+<img width="619" alt="image" src="https://github.com/saharanit6288/Bulky_DotNet8_MVC/assets/25769384/8dfd70ac-6719-4d3a-8b25-3c94b0383c43">
+<img width="623" alt="image" src="https://github.com/saharanit6288/Bulky_DotNet8_MVC/assets/25769384/3da9c423-0715-4dab-96aa-8074a5c49707">
 
-### Search + Paging Student-
-![image](https://user-images.githubusercontent.com/25769384/218094208-ce1c8530-d7f1-4c2d-b8b1-db241a51cd9c.png)
+
+
+
+
+
+
+
 
 
